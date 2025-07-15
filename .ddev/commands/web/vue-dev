@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Start the Vite dev-server by running "dev" script in ./package.json
+## Usage: vue-dev
+## Example: "ddev vue-dev"
+
+yarn dev

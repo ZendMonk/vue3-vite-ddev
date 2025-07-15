@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## Description: Run yarn install and build Vue frontend
+## Usage: project-setup
+## Example: "ddev project-setup"
+
+yarn
+yarn build

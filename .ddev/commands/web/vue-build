@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Compile the vue frontend by running "build" script in ./package.json
+## Usage: vue-build
+## Example: "ddev vue-build"
+
+yarn build
