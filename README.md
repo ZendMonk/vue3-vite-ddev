@@ -38,7 +38,7 @@ Please note: The `<project name>` here refers to the project name specified in y
 
 ## Building for Production
 
-To build the Vue app for production, just run `ddev vue-build`. This will compile the frontend code and place the output in the `public` directory.
+To build the Vue app for production, just run `ddev vue-build`. This will compile the frontend code and place the output inside the `dist` directory.
 
 <b>Once the build is complete, you can review your latest changes at</b>
 
